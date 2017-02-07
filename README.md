@@ -1,6 +1,6 @@
  components defined as classes have some additional features. 
  
- ```React
+ ```javascript
  
  class Welcome extends Component{
   constructor(props){

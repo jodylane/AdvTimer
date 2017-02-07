@@ -69,7 +69,7 @@ class AdvTimer extends Component {
   
   ```
 
-componentDidMount(){} and componentWillUnmount(){} are both lifecycle hooks.
+`componentDidMount()` and `componentWillUnmount()` are both lifecycle hooks.
 
 The componentDidMount() hook runs after the component output has been rendered to the DOM.
 If the component is ever removed from the DOM, React calls the componentWillUnmount() lifecycle hook
